@@ -19,16 +19,15 @@
 
 ---
 
-### 🚀 Nelerle Uğraşıyorum?
+### 🚀 What am I involved in?
 
-*   💻 **Full-Stack Geliştirici:** React, Python ve Supabase tabanlı SaaS projeleri inşa ediyorum.
-*   📦 **Depo & Stok Çözümleri:** Şu sıralar (Depo Yönetim Sistemi) ve (Stok Takip Platformu) üzerinde çalışıyorum.
-*   🏢 **SaaS Projeleri:** Apartman aidat ve gider takibi için blok yönetim sistemleri geliştiriyorum.
-*   🍎 **Geliştirme Ortamı:** Kodlarımı macOS ekosisteminde, dual-monitor kurulumumda titizlikle yazıyorum.
-
+*   💻 **Full-Stack Developer:** I build SaaS projects based on React, Python, and Supabase.
+*   📦 **Warehouse and Inventory Solutions:** I am currently working on a (Warehouse Management System) and (Inventory Tracking Platform).
+*   🏢 **SaaS Projects:** I develop block management systems for tracking apartment building fees and expenses.
+*   🍎 **Development Environment:** I meticulously write my code within the macOS ecosystem, using a dual-monitor setup.
 ---
 
-### 🛠️ Kullandığım Teknolojiler & Rozetler
+### 🛠️ Technologies and Badges I Use
 
 <div align="center">
 
@@ -53,7 +52,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 My GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
