@@ -22,10 +22,9 @@
 ### 🚀 Nelerle Uğraşıyorum?
 
 *   💻 **Full-Stack Geliştirici:** React, Python ve Supabase tabanlı SaaS projeleri inşa ediyorum.
-*   📦 **Depo & Stok Çözümleri:** Şu sıralar **JetWMS** (Depo Yönetim Sistemi) ve **Jet Takip** (Stok Takip Platformu) üzerinde çalışıyorum.
+*   📦 **Depo & Stok Çözümleri:** Şu sıralar (Depo Yönetim Sistemi) ve (Stok Takip Platformu) üzerinde çalışıyorum.
 *   🏢 **SaaS Projeleri:** Apartman aidat ve gider takibi için blok yönetim sistemleri geliştiriyorum.
 *   🍎 **Geliştirme Ortamı:** Kodlarımı macOS ekosisteminde, dual-monitor kurulumumda titizlikle yazıyorum.
-*   🐱 **Asistanım:** Kod yazarken en büyük destekçim, tüylü dostum Eyşan.
 
 ---
 
