@@ -54,19 +54,25 @@
 
 ### 📊 My GitHub Statistics
 
+### 📊 My GitHub Statistics
+
 <div align="center">
 
-<!-- Çalışan kartı tam merkeze alıyoruz -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samedov55&theme=tokyonight" alt="GitHub Streak" />
 
 <br><br>
 
-<!-- Altına da kırılma ihtimali olmayan statik durum rozetleri ekliyoruz -->
 <img src="https://img.shields.io/badge/Focus-Full--Stack_SaaS-blue?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/Stack-React_&_Supabase-3ECF8E?style=flat-square&logo=supabase" />
 <img src="https://img.shields.io/badge/Backend-Python_Automation-3776AB?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/OS-macOS_Ecosystem-000000?style=flat-square&logo=apple" />
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://web.archive.org/web/20091027053341im_/http://geocities.com/the_rebel_angels/fire-line.gif" width="100%" alt="Retro Fire">
 </div>
 
 <!-- Sayfanın Altındaki Nostaljik Ateş Animasyonu -->
