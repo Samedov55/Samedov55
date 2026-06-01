@@ -55,11 +55,25 @@
 ### 📊 My GitHub Statistics
 
 <div align="center">
-  <!-- Alternatif ve daha hızlı çalışan grafik servisleri -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Samedov55&theme=tokyonight&column=3" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samedov55&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
+<table align="center">
+  <tr>
+    <td align="left" width="300px">
+      <h4>📊 My Development Stats</h4>
+      <ul>
+        <li>⚡ <b>Current Focus:</b> Full-Stack SaaS Platforms</li>
+        <li>🛠 <b>Main Stack:</b> React & Supabase</li>
+        <li>⚙️ <b>Backend:</b> Python Automation</li>
+        <li>💻 <b>OS:</b> macOS Developer Ecosystem</li>
+      </ul>
+    </td>
+    <td align="center" width="400px">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samedov55&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 <!-- Sayfanın Altındaki Nostaljik Ateş Animasyonu -->
