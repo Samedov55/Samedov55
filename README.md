@@ -56,7 +56,7 @@
 
 <div align="center">
   <!-- Alternatif ve daha hızlı çalışan grafik servisleri -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Samedov55&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samedov55&theme=tokyonight&column=3" alt="GitHub Trophies" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samedov55&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
