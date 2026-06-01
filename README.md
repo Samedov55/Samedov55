@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 90'lar Tarzı WordArt Başlık (İnternetten dinamik text generator linkiyle veya görselle değiştirebilirsin) -->
-# 🌟 NURULLAH'IN DÜNYASINA HOŞ GELDİNİZ 🌟
+# WELCOME TO MY GİTHUB PROFİLE
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M0Ym1na3VwY3N4cXN4YTMyc3M0bTUzYTY1cnI1ZjdteXpobjBwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orif68n78LwS7byfe/giphy.gif" width="400" alt="Retro Welcome">
 
