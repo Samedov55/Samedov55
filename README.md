@@ -54,8 +54,6 @@
 
 ### 📊 My GitHub Statistics
 
-### 📊 My GitHub Statistics
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samedov55&theme=tokyonight" alt="GitHub Streak" />
