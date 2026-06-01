@@ -68,7 +68,6 @@
 <img src="https://img.shields.io/badge/OS-macOS_Ecosystem-000000?style=flat-square&logo=apple" />
 
 </div>
----
 
 <!-- Sayfanın Altındaki Nostaljik Ateş Animasyonu -->
 <div align="center">
