@@ -1,26 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Animated car driving on a night road">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="White SUV driving on a night road">
   <title>On the road</title>
   <defs>
     <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#79B8FF"/>
-      <stop offset="55%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#1F6FEB"/>
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="42%"  stop-color="#E6EDF3"/>
+      <stop offset="78%"  stop-color="#C3CBD4"/>
+      <stop offset="100%" stop-color="#A2AAB4"/>
     </linearGradient>
-    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#123A63"/>
+    <linearGradient id="glass" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%"   stop-color="#20272F"/>
+      <stop offset="100%" stop-color="#10151B"/>
     </linearGradient>
     <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FFE9A8" stop-opacity=".75"/>
-      <stop offset="100%" stop-color="#FFE9A8" stop-opacity="0"/>
+      <stop offset="0%"   stop-color="#F0F6FC" stop-opacity=".42"/>
+      <stop offset="100%" stop-color="#F0F6FC" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#58A6FF" stop-opacity=".9"/>
+      <stop offset="0%"   stop-color="#E6EDF3" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#E6EDF3" stop-opacity=".75"/>
     </linearGradient>
     <clipPath id="frame"><rect x="1" y="1" width="998" height="198" rx="12"/></clipPath>
 
-    <g id="skyline" fill="#161B22">
+    <g id="skyline" fill="#171B21">
       <rect x="0"   y="92"  width="54" height="60"/>
       <rect x="60"  y="66"  width="38" height="86"/>
       <rect x="104" y="106" width="62" height="46"/>
@@ -40,7 +41,7 @@
       <rect x="934" y="88"  width="60" height="64"/>
     </g>
 
-    <g id="windows" fill="#58A6FF" opacity=".22">
+    <g id="windows" fill="#8B949E" opacity=".16">
       <rect x="70"  y="76"  width="6" height="8"/><rect x="82"  y="76"  width="6" height="8"/>
       <rect x="70"  y="92"  width="6" height="8"/><rect x="182" y="64"  width="6" height="8"/>
       <rect x="196" y="64"  width="6" height="8"/><rect x="182" y="80"  width="6" height="8"/>
@@ -57,16 +58,16 @@
     @keyframes scroll-sky  { from { transform: translateX(0);    } to { transform: translateX(-1000px); } }
     @keyframes scroll-road { from { transform: translateX(0);    } to { transform: translateX(-90px);   } }
     @keyframes spin        { from { transform: rotate(0deg);     } to { transform: rotate(360deg);      } }
-    @keyframes bob         { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-2px);   } }
-    @keyframes glow        { 0%,100% { opacity: .55; } 50% { opacity: .95; } }
+    @keyframes bob         { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-1.5px); } }
+    @keyframes glow        { 0%,100% { opacity: .62; } 50% { opacity: 1; } }
     @keyframes streak      { 0% { opacity: 0; transform: translateX(40px); } 25% { opacity: .9; } 100% { opacity: 0; transform: translateX(-90px); } }
-    @keyframes twinkle     { 0%,100% { opacity: .25; } 50% { opacity: .8; } }
+    @keyframes twinkle     { 0%,100% { opacity: .22; } 50% { opacity: .7; } }
 
     .sky    { animation: scroll-sky 30s linear infinite; }
     .road   { animation: scroll-road .45s linear infinite; }
-    .car    { animation: bob .8s ease-in-out infinite; }
-    .wheel  { transform-box: fill-box; transform-origin: center; animation: spin .45s linear infinite; }
-    .lamp   { animation: glow 2.2s ease-in-out infinite; }
+    .car    { animation: bob .9s ease-in-out infinite; }
+    .wheel  { transform-box: fill-box; transform-origin: center; animation: spin .5s linear infinite; }
+    .lamp   { animation: glow 2.4s ease-in-out infinite; }
     .streak { animation: streak .7s linear infinite; }
     .star   { animation: twinkle 3s ease-in-out infinite; }
   </style>
@@ -101,36 +102,77 @@
     </g>
 
     <g stroke="url(#fadeR)" stroke-width="2.5" stroke-linecap="round" fill="none">
-      <line class="streak" x1="300" y1="112" x2="368" y2="112"/>
-      <line class="streak" x1="286" y1="130" x2="360" y2="130" style="animation-delay:.22s"/>
-      <line class="streak" x1="308" y1="146" x2="372" y2="146" style="animation-delay:.44s"/>
+      <line class="streak" x1="292" y1="104" x2="360" y2="104"/>
+      <line class="streak" x1="278" y1="126" x2="352" y2="126" style="animation-delay:.22s"/>
+      <line class="streak" x1="300" y1="146" x2="364" y2="146" style="animation-delay:.44s"/>
     </g>
 
-    <polygon class="lamp" points="572,124 900,96 900,166 572,140" fill="url(#beam)"/>
+    <polygon class="lamp" points="606,108 960,86 960,168 606,132" fill="url(#beam)"/>
 
-    <ellipse cx="486" cy="152" rx="98" ry="6" fill="#58A6FF" opacity=".16"/>
-    <g transform="translate(400,72)">
+    <ellipse cx="500" cy="153" rx="112" ry="6" fill="#E6EDF3" opacity=".12"/>
+
+    <g transform="translate(390,72)">
       <g class="car">
-        <path d="M6,68 L6,50 Q6,42 16,40 L44,34 L64,15 Q68,10 78,10 L116,10 Q126,10 130,16 L146,38 L162,44 Q170,47 170,56 L170,68 Z"
-              fill="url(#body)" stroke="#0D1117" stroke-width="1.5"/>
-        <path d="M52,34 L68,19 Q70,17 75,17 L92,17 L92,34 Z" fill="url(#glass)"/>
-        <path d="M99,17 L114,17 Q121,17 124,21 L133,34 L99,34 Z" fill="url(#glass)"/>
-        <path d="M18,54 L152,54" stroke="#0D1117" stroke-width="1.5" opacity=".45"/>
-        <rect x="88" y="46" width="12" height="3" rx="1.5" fill="#0D1117" opacity=".55"/>
-        <ellipse class="lamp" cx="164" cy="49" rx="6" ry="3.5" fill="#FFE9A8"/>
-        <rect x="6" y="47" width="7" height="5" rx="2" fill="#FF6B6B"/>
-        <circle cx="48" cy="62" r="17" fill="#0D1117" stroke="#30363D" stroke-width="3"/>
-        <circle cx="134" cy="62" r="17" fill="#0D1117" stroke="#30363D" stroke-width="3"/>
-        <g class="wheel" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" opacity=".85">
-          <line x1="38" y1="62" x2="58" y2="62"/><line x1="48" y1="52" x2="48" y2="72"/>
-          <line x1="41" y1="55" x2="55" y2="69"/><line x1="55" y1="55" x2="41" y2="69"/>
+        <!-- silhouette: crossover profile, front facing right -->
+        <path d="M10,64 L10,38 Q10,30 18,27 L30,24 L52,6 Q56,4 64,4 L150,4 Q158,4 162,9
+                 L186,27 L208,31 Q218,34 219,45 L219,58 Q219,64 213,64 L192,64
+                 A24,24 0 0,0 144,64 L82,64 A24,24 0 0,0 34,64 L10,64 Z"
+              fill="url(#body)" stroke="#0B0E13" stroke-width="1.2"/>
+
+        <!-- roof rails -->
+        <rect x="56" y="1.5" width="94" height="3" rx="1.5" fill="#2A3038"/>
+
+        <!-- glazing -->
+        <path d="M38,25 L57,9 L72,9 L72,25 Z"    fill="url(#glass)"/>
+        <path d="M78,25 L78,9 L110,9 L110,25 Z"  fill="url(#glass)"/>
+        <path d="M116,25 L116,9 L142,9 L146,25 Z" fill="url(#glass)"/>
+        <path d="M152,25 L148,9 L152,9 L181,25 Z" fill="url(#glass)"/>
+
+        <!-- black arch trim + lower cladding -->
+        <path d="M192,64 A24,24 0 0,0 144,64" fill="none" stroke="#1C2128" stroke-width="5"/>
+        <path d="M82,64  A24,24 0 0,0 34,64"  fill="none" stroke="#1C2128" stroke-width="5"/>
+        <rect x="82"  y="56" width="62" height="8" rx="2" fill="#1C2128"/>
+        <rect x="192" y="55" width="25" height="9" rx="2" fill="#1C2128"/>
+        <rect x="10"  y="55" width="24" height="9" rx="2" fill="#1C2128"/>
+
+        <!-- shut lines, handles, mirror -->
+        <g stroke="#9AA4AE" stroke-width="1" opacity=".65" fill="none">
+          <path d="M76,26 L76,56"/><path d="M114,26 L114,56"/><path d="M150,28 L150,55"/>
         </g>
-        <g class="wheel" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" opacity=".85">
-          <line x1="124" y1="62" x2="144" y2="62"/><line x1="134" y1="52" x2="134" y2="72"/>
-          <line x1="127" y1="55" x2="141" y2="69"/><line x1="141" y1="55" x2="127" y2="69"/>
+        <rect x="88"  y="32" width="11" height="3" rx="1.5" fill="#6E7681"/>
+        <rect x="126" y="32" width="11" height="3" rx="1.5" fill="#6E7681"/>
+        <path d="M152,26 L161,24 L161,29 Z" fill="#1C2128"/>
+
+        <!-- lights + grille -->
+        <path class="lamp" d="M198,31 L214,33 Q219,35 217,40 L200,37 Z" fill="#F0F6FC"/>
+        <rect x="199" y="44" width="18" height="8" rx="2" fill="#1C2128"/>
+        <rect x="10"  y="30" width="7"  height="10" rx="2" fill="#C9D1D9" opacity=".75"/>
+
+        <!-- wheels -->
+        <circle cx="58"  cy="60" r="20"   fill="#15191F" stroke="#0B0E13" stroke-width="2"/>
+        <circle cx="168" cy="60" r="20"   fill="#15191F" stroke="#0B0E13" stroke-width="2"/>
+        <circle cx="58"  cy="60" r="12.5" fill="#262C34"/>
+        <circle cx="168" cy="60" r="12.5" fill="#262C34"/>
+
+        <g class="wheel" stroke="#C9D1D9" stroke-width="2.6" stroke-linecap="round">
+          <circle cx="58" cy="60" r="12.5" fill="none" stroke="none"/>
+          <line x1="58" y1="60" x2="69.0"  y2="60"/>
+          <line x1="58" y1="60" x2="61.4"  y2="70.5"/>
+          <line x1="58" y1="60" x2="49.1"  y2="66.5"/>
+          <line x1="58" y1="60" x2="49.1"  y2="53.5"/>
+          <line x1="58" y1="60" x2="61.4"  y2="49.5"/>
         </g>
-        <circle cx="48" cy="62" r="4" fill="#58A6FF"/>
-        <circle cx="134" cy="62" r="4" fill="#58A6FF"/>
+        <g class="wheel" stroke="#C9D1D9" stroke-width="2.6" stroke-linecap="round">
+          <circle cx="168" cy="60" r="12.5" fill="none" stroke="none"/>
+          <line x1="168" y1="60" x2="179.0" y2="60"/>
+          <line x1="168" y1="60" x2="171.4" y2="70.5"/>
+          <line x1="168" y1="60" x2="159.1" y2="66.5"/>
+          <line x1="168" y1="60" x2="159.1" y2="53.5"/>
+          <line x1="168" y1="60" x2="171.4" y2="49.5"/>
+        </g>
+
+        <circle cx="58"  cy="60" r="3.5" fill="#E6EDF3"/>
+        <circle cx="168" cy="60" r="3.5" fill="#E6EDF3"/>
       </g>
     </g>
   </g>

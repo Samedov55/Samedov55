@@ -1,20 +1,20 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Abdussamet%20Parlak&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Frontend%20Developer%20%C2%B7%20Samsun%2C%20%C4%B0lkad%C4%B1m&descAlignY=54&descSize=18&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:373E47,60:1C2128,100:0D1117&height=200&section=header&text=Abdussamet%20Parlak&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Frontend%20Developer%20%C2%B7%20Samsun%2C%20%C4%B0lkad%C4%B1m&descAlignY=54&descSize=18&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Samedov55">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=40&lines=Frontend+Developer+based+in+Samsun;React+%7C+Next.js+%7C+TypeScript;Pixel-perfect%2C+accessible+interfaces;Ship+fast.+Refactor+smart.+Never+break+prod." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=E6EDF3&center=true&vCenter=true&width=680&height=40&lines=Frontend+Developer+based+in+Samsun;React+%7C+Next.js+%7C+TypeScript;Pixel-perfect%2C+accessible+interfaces;Ship+fast.+Refactor+smart.+Never+break+prod." alt="typing" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Samedov55&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/github/followers/Samedov55?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github&logoColor=58A6FF" alt="followers" />
-<img src="https://img.shields.io/badge/Samsun-%C4%B0lkad%C4%B1m-58A6FF?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=58A6FF" alt="location" />
-<img src="https://img.shields.io/badge/Open_to-Collaboration-3ECF8E?style=for-the-badge&labelColor=0D1117&logo=handshake&logoColor=3ECF8E" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=Samedov55&style=for-the-badge&color=30363D&labelColor=161B22&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/Samedov55?style=for-the-badge&color=30363D&labelColor=161B22&logo=github&logoColor=C9D1D9" alt="followers" />
+<img src="https://img.shields.io/badge/Samsun-%C4%B0lkad%C4%B1m-E6EDF3?style=for-the-badge&labelColor=161B22&logo=googlemaps&logoColor=C9D1D9" alt="location" />
+<img src="https://img.shields.io/badge/Open_to-Collaboration-30363D?style=for-the-badge&labelColor=161B22&logo=handshake&logoColor=C9D1D9" alt="status" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
 
 </div>
 
@@ -50,7 +50,7 @@ and property management platforms.
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
@@ -85,7 +85,7 @@ Apartment fee and expense management with payment tracking and automated notific
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 
@@ -107,7 +107,7 @@ Apartment fee and expense management with payment tracking and automated notific
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
@@ -117,16 +117,16 @@ Apartment fee and expense management with payment tracking and automated notific
 
 <!-- NOT: resmi instance (github-readme-stats.vercel.app) su an 503 / rate-limit veriyor.
      Duzelirse asagidaki iki satirdaki "-salesp07" ekini silmen yeterli. -->
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Samedov55&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="stats" />
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Samedov55&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="top languages" />
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Samedov55&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="stats" />
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Samedov55&layout=compact&langs_count=8&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Samedov55&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Samedov55&background=0D1117&border=30363D&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=C9D1D9&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="streak" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ GARAGE ═══════════════════════════ -->
 
@@ -134,13 +134,13 @@ Apartment fee and expense management with payment tracking and automated notific
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/car.svg" alt="car driving on a night road" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/car.svg?v=2" alt="car driving on a night road" />
 
 <i>Code by day, cars by night.</i>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
@@ -149,7 +149,7 @@ Apartment fee and expense management with payment tracking and automated notific
 <div align="center">
 
 <a href="https://github.com/Samedov55">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <!-- KENDI HESAPLARINI EKLE: bu yorum blogunu silip asagidaki linkleri doldur
 <a href="https://linkedin.com/in/KULLANICI-ADIN">
@@ -169,4 +169,4 @@ Apartment fee and expense management with payment tracking and automated notific
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1C2128,100:373E47&height=120&section=footer" alt="footer" />
