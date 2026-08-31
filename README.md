@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:373E47,60:1C2128,100:0D1117&height=200&section=header&text=Abdussamet%20Parlak&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Frontend%20Developer%20%C2%B7%20Samsun%2C%20%C4%B0lkad%C4%B1m&descAlignY=54&descSize=18&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/banner.jpg?v=1" alt="Samet Parlak - Frontend Developer, Samsun Ilkadim" />
 
 <a href="https://github.com/Samedov55">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=E6EDF3&center=true&vCenter=true&width=680&height=40&lines=Frontend+Developer+based+in+Samsun;React+%7C+Next.js+%7C+TypeScript;Pixel-perfect%2C+accessible+interfaces;Ship+fast.+Refactor+smart.+Never+break+prod." alt="typing" />
@@ -10,7 +10,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Focus-React_%26_Next.js-30363D?style=for-the-badge&labelColor=161B22&logo=react&logoColor=C9D1D9" alt="focus" />
-<img src="https://img.shields.io/badge/Samsun-%C4%B0lkad%C4%B1m-E6EDF3?style=for-the-badge&labelColor=161B22&logo=googlemaps&logoColor=C9D1D9" alt="location" />
 <img src="https://img.shields.io/badge/Open_to-Collaboration-30363D?style=for-the-badge&labelColor=161B22&logo=handshake&logoColor=C9D1D9" alt="status" />
 
 <img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
