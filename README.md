@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Samsun-%C4%B0lkad%C4%B1m-E6EDF3?style=for-the-badge&labelColor=161B22&logo=googlemaps&logoColor=C9D1D9" alt="location" />
 <img src="https://img.shields.io/badge/Open_to-Collaboration-30363D?style=for-the-badge&labelColor=161B22&logo=handshake&logoColor=C9D1D9" alt="status" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
 
 </div>
 
@@ -50,7 +50,7 @@ and property management platforms.
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
@@ -85,7 +85,7 @@ Apartment fee and expense management with payment tracking and automated notific
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 
@@ -107,7 +107,7 @@ Apartment fee and expense management with payment tracking and automated notific
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
@@ -115,18 +115,18 @@ Apartment fee and expense management with payment tracking and automated notific
 
 <div align="center">
 
-<!-- NOT: resmi instance (github-readme-stats.vercel.app) su an 503 / rate-limit veriyor.
-     Duzelirse asagidaki iki satirdaki "-salesp07" ekini silmen yeterli. -->
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Samedov55&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="stats" />
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Samedov55&layout=compact&langs_count=8&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="top languages" />
+<img src="https://streak-stats.demolab.com?user=Samedov55&background=0D1117&border=30363D&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=C9D1D9&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="streak" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Samedov55&background=0D1117&border=30363D&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=C9D1D9&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="streak" />
+<!-- NOT: resmi instance (github-readme-stats.vercel.app) su an 503 / rate-limit veriyor.
+     Duzelirse asagidaki iki satirdaki "-salesp07" ekini silmen yeterli. -->
+<img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Samedov55&layout=donut&langs_count=8&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="top languages" />
+<img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Samedov55&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="stats" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
 
 <!-- ═══════════════════════════ GARAGE ═══════════════════════════ -->
 
@@ -140,7 +140,7 @@ Apartment fee and expense management with payment tracking and automated notific
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B949E,100:0D1117&height=3&section=header" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 

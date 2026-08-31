@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="fadeL" gradientUnits="userSpaceOnUse" x1="4" y1="20" x2="424" y2="20">
+      <stop offset="0%"   stop-color="#8B949E" stop-opacity="0"/>
+      <stop offset="55%"  stop-color="#8B949E" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#C9D1D9" stop-opacity=".95"/>
+    </linearGradient>
+    <linearGradient id="fadeR" gradientUnits="userSpaceOnUse" x1="476" y1="20" x2="896" y2="20">
+      <stop offset="0%"   stop-color="#C9D1D9" stop-opacity=".95"/>
+      <stop offset="45%"  stop-color="#8B949E" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#8B949E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="4"   y1="20" x2="424" y2="20" stroke="url(#fadeL)" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="476" y1="20" x2="896" y2="20" stroke="url(#fadeR)" stroke-width="1.6" stroke-linecap="round"/>
+
+  <!-- crescent: outer r=11 at (445,20) minus inner r=9 at (449,20) -->
+  <path d="M452,11.515 A11,11 0 1,0 452,28.485 A9,9 0 1,1 452,11.515 Z" fill="#C9D1D9"/>
+
+  <!-- five-pointed star -->
+  <polygon fill="#C9D1D9" points="461,14.5 462.29,18.22 466.23,18.3 463.09,20.68 464.23,24.45 461,22.2 457.77,24.45 458.91,20.68 455.77,18.3 459.71,18.22"/>
+</svg>
