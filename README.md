@@ -9,8 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Samedov55&style=for-the-badge&color=30363D&labelColor=161B22&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/github/followers/Samedov55?style=for-the-badge&color=30363D&labelColor=161B22&logo=github&logoColor=C9D1D9" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-React_%26_Next.js-30363D?style=for-the-badge&labelColor=161B22&logo=react&logoColor=C9D1D9" alt="focus" />
 <img src="https://img.shields.io/badge/Samsun-%C4%B0lkad%C4%B1m-E6EDF3?style=for-the-badge&labelColor=161B22&logo=googlemaps&logoColor=C9D1D9" alt="location" />
 <img src="https://img.shields.io/badge/Open_to-Collaboration-30363D?style=for-the-badge&labelColor=161B22&logo=handshake&logoColor=C9D1D9" alt="status" />
 
@@ -85,6 +84,8 @@ Apartment fee and expense management with payment tracking and automated notific
 </tr>
 </table>
 
+<div align="center"><sub>Currently developed in private repositories — happy to walk through the architecture on request.</sub></div>
+
 <img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
@@ -109,28 +110,9 @@ Apartment fee and expense management with payment tracking and automated notific
 
 <img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-
-## &nbsp;&nbsp;`04` &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Samedov55&background=0D1117&border=30363D&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=C9D1D9&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="streak" />
-
-<br/><br/>
-
-<!-- NOT: resmi instance (github-readme-stats.vercel.app) su an 503 / rate-limit veriyor.
-     Duzelirse asagidaki iki satirdaki "-salesp07" ekini silmen yeterli. -->
-<img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Samedov55&layout=donut&langs_count=8&bg_color=0D1117&title_color=E6EDF3&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="top languages" />
-<img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Samedov55&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="stats" />
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/divider.svg?v=1" alt="divider" />
-
 <!-- ═══════════════════════════ GARAGE ═══════════════════════════ -->
 
-## &nbsp;&nbsp;`05` &nbsp;Garage
+## &nbsp;&nbsp;`04` &nbsp;Garage
 
 <div align="center">
 
@@ -144,7 +126,7 @@ Apartment fee and expense management with payment tracking and automated notific
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
-## &nbsp;&nbsp;`06` &nbsp;Let's Connect
+## &nbsp;&nbsp;`05` &nbsp;Let's Connect
 
 <div align="center">
 
@@ -165,7 +147,7 @@ Apartment fee and expense management with payment tracking and automated notific
 
 <br/><br/>
 
-<i>“First, solve the problem. Then, write the code.” — John Johnson</i>
+<sub>Open to freelance work and collaboration on frontend-heavy products.</sub>
 
 </div>
 
