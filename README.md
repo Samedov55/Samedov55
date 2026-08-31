@@ -134,7 +134,7 @@ Apartment fee and expense management with payment tracking and automated notific
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/car.svg?v=2" alt="car driving on a night road" />
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/car.svg?v=3" alt="car driving on a night road" />
 
 <i>Code by day, cars by night.</i>
 
