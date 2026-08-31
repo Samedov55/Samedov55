@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Animated car driving on a night road">
+  <title>On the road</title>
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#79B8FF"/>
+      <stop offset="55%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#123A63"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFE9A8" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#FFE9A8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity=".9"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="998" height="198" rx="12"/></clipPath>
+
+    <g id="skyline" fill="#161B22">
+      <rect x="0"   y="92"  width="54" height="60"/>
+      <rect x="60"  y="66"  width="38" height="86"/>
+      <rect x="104" y="106" width="62" height="46"/>
+      <rect x="172" y="52"  width="44" height="100"/>
+      <rect x="222" y="86"  width="70" height="66"/>
+      <rect x="298" y="112" width="48" height="40"/>
+      <rect x="352" y="60"  width="40" height="92"/>
+      <rect x="398" y="98"  width="66" height="54"/>
+      <rect x="470" y="74"  width="42" height="78"/>
+      <rect x="518" y="110" width="58" height="42"/>
+      <rect x="582" y="58"  width="46" height="94"/>
+      <rect x="634" y="96"  width="60" height="56"/>
+      <rect x="700" y="80"  width="40" height="72"/>
+      <rect x="746" y="108" width="70" height="44"/>
+      <rect x="822" y="64"  width="44" height="88"/>
+      <rect x="872" y="100" width="56" height="52"/>
+      <rect x="934" y="88"  width="60" height="64"/>
+    </g>
+
+    <g id="windows" fill="#58A6FF" opacity=".22">
+      <rect x="70"  y="76"  width="6" height="8"/><rect x="82"  y="76"  width="6" height="8"/>
+      <rect x="70"  y="92"  width="6" height="8"/><rect x="182" y="64"  width="6" height="8"/>
+      <rect x="196" y="64"  width="6" height="8"/><rect x="182" y="80"  width="6" height="8"/>
+      <rect x="196" y="96"  width="6" height="8"/><rect x="362" y="72"  width="6" height="8"/>
+      <rect x="376" y="88"  width="6" height="8"/><rect x="480" y="86"  width="6" height="8"/>
+      <rect x="494" y="102" width="6" height="8"/><rect x="592" y="70"  width="6" height="8"/>
+      <rect x="606" y="70"  width="6" height="8"/><rect x="592" y="86"  width="6" height="8"/>
+      <rect x="710" y="92"  width="6" height="8"/><rect x="832" y="76"  width="6" height="8"/>
+      <rect x="846" y="92"  width="6" height="8"/><rect x="944" y="100" width="6" height="8"/>
+    </g>
+  </defs>
+
+  <style>
+    @keyframes scroll-sky  { from { transform: translateX(0);    } to { transform: translateX(-1000px); } }
+    @keyframes scroll-road { from { transform: translateX(0);    } to { transform: translateX(-90px);   } }
+    @keyframes spin        { from { transform: rotate(0deg);     } to { transform: rotate(360deg);      } }
+    @keyframes bob         { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-2px);   } }
+    @keyframes glow        { 0%,100% { opacity: .55; } 50% { opacity: .95; } }
+    @keyframes streak      { 0% { opacity: 0; transform: translateX(40px); } 25% { opacity: .9; } 100% { opacity: 0; transform: translateX(-90px); } }
+    @keyframes twinkle     { 0%,100% { opacity: .25; } 50% { opacity: .8; } }
+
+    .sky    { animation: scroll-sky 30s linear infinite; }
+    .road   { animation: scroll-road .45s linear infinite; }
+    .car    { animation: bob .8s ease-in-out infinite; }
+    .wheel  { transform-box: fill-box; transform-origin: center; animation: spin .45s linear infinite; }
+    .lamp   { animation: glow 2.2s ease-in-out infinite; }
+    .streak { animation: streak .7s linear infinite; }
+    .star   { animation: twinkle 3s ease-in-out infinite; }
+  </style>
+
+  <rect x="0" y="0" width="1000" height="200" rx="12" fill="#0D1117"/>
+
+  <g clip-path="url(#frame)">
+    <g fill="#C9D1D9">
+      <circle class="star" cx="120" cy="30" r="1.4"/>
+      <circle class="star" cx="300" cy="22" r="1.1" style="animation-delay:.6s"/>
+      <circle class="star" cx="470" cy="38" r="1.5" style="animation-delay:1.2s"/>
+      <circle class="star" cx="640" cy="26" r="1.2" style="animation-delay:.3s"/>
+      <circle class="star" cx="810" cy="34" r="1.4" style="animation-delay:1.8s"/>
+      <circle class="star" cx="920" cy="20" r="1.1" style="animation-delay:.9s"/>
+    </g>
+
+    <g class="sky">
+      <use href="#skyline"/><use href="#skyline" x="1000"/>
+      <use href="#windows"/><use href="#windows" x="1000"/>
+    </g>
+
+    <rect x="0" y="152" width="1000" height="48" fill="#0B0E13"/>
+    <rect x="0" y="151" width="1000" height="1.5" fill="#30363D"/>
+    <g class="road" fill="#30363D">
+      <rect x="-90" y="173" width="46" height="3" rx="1.5"/><rect x="0"   y="173" width="46" height="3" rx="1.5"/>
+      <rect x="90"  y="173" width="46" height="3" rx="1.5"/><rect x="180" y="173" width="46" height="3" rx="1.5"/>
+      <rect x="270" y="173" width="46" height="3" rx="1.5"/><rect x="360" y="173" width="46" height="3" rx="1.5"/>
+      <rect x="450" y="173" width="46" height="3" rx="1.5"/><rect x="540" y="173" width="46" height="3" rx="1.5"/>
+      <rect x="630" y="173" width="46" height="3" rx="1.5"/><rect x="720" y="173" width="46" height="3" rx="1.5"/>
+      <rect x="810" y="173" width="46" height="3" rx="1.5"/><rect x="900" y="173" width="46" height="3" rx="1.5"/>
+      <rect x="990" y="173" width="46" height="3" rx="1.5"/>
+    </g>
+
+    <g stroke="url(#fadeR)" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <line class="streak" x1="300" y1="112" x2="368" y2="112"/>
+      <line class="streak" x1="286" y1="130" x2="360" y2="130" style="animation-delay:.22s"/>
+      <line class="streak" x1="308" y1="146" x2="372" y2="146" style="animation-delay:.44s"/>
+    </g>
+
+    <polygon class="lamp" points="572,124 900,96 900,166 572,140" fill="url(#beam)"/>
+
+    <ellipse cx="486" cy="152" rx="98" ry="6" fill="#58A6FF" opacity=".16"/>
+    <g transform="translate(400,72)">
+      <g class="car">
+        <path d="M6,68 L6,50 Q6,42 16,40 L44,34 L64,15 Q68,10 78,10 L116,10 Q126,10 130,16 L146,38 L162,44 Q170,47 170,56 L170,68 Z"
+              fill="url(#body)" stroke="#0D1117" stroke-width="1.5"/>
+        <path d="M52,34 L68,19 Q70,17 75,17 L92,17 L92,34 Z" fill="url(#glass)"/>
+        <path d="M99,17 L114,17 Q121,17 124,21 L133,34 L99,34 Z" fill="url(#glass)"/>
+        <path d="M18,54 L152,54" stroke="#0D1117" stroke-width="1.5" opacity=".45"/>
+        <rect x="88" y="46" width="12" height="3" rx="1.5" fill="#0D1117" opacity=".55"/>
+        <ellipse class="lamp" cx="164" cy="49" rx="6" ry="3.5" fill="#FFE9A8"/>
+        <rect x="6" y="47" width="7" height="5" rx="2" fill="#FF6B6B"/>
+        <circle cx="48" cy="62" r="17" fill="#0D1117" stroke="#30363D" stroke-width="3"/>
+        <circle cx="134" cy="62" r="17" fill="#0D1117" stroke="#30363D" stroke-width="3"/>
+        <g class="wheel" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" opacity=".85">
+          <line x1="38" y1="62" x2="58" y2="62"/><line x1="48" y1="52" x2="48" y2="72"/>
+          <line x1="41" y1="55" x2="55" y2="69"/><line x1="55" y1="55" x2="41" y2="69"/>
+        </g>
+        <g class="wheel" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" opacity=".85">
+          <line x1="124" y1="62" x2="144" y2="62"/><line x1="134" y1="52" x2="134" y2="72"/>
+          <line x1="127" y1="55" x2="141" y2="69"/><line x1="141" y1="55" x2="127" y2="69"/>
+        </g>
+        <circle cx="48" cy="62" r="4" fill="#58A6FF"/>
+        <circle cx="134" cy="62" r="4" fill="#58A6FF"/>
+      </g>
+    </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="998.5" height="198.5" rx="12" fill="none" stroke="#30363D" stroke-width="1.5"/>
+</svg>

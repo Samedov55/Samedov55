@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Abdussamet%20Parlak&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20SaaS%20Architect&descAlignY=54&descSize=18&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Abdussamet%20Parlak&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=Frontend%20Developer%20%C2%B7%20Samsun%2C%20%C4%B0lkad%C4%B1m&descAlignY=54&descSize=18&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Samedov55">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=40&lines=Building+SaaS+products+with+React+%26+Python;Warehouse+%26+Inventory+Management+Systems;Clean+architecture.+Pixel-perfect+interfaces.;Ship+fast.+Refactor+smart.+Never+break+prod." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=40&lines=Frontend+Developer+based+in+Samsun;React+%7C+Next.js+%7C+TypeScript;Pixel-perfect%2C+accessible+interfaces;Ship+fast.+Refactor+smart.+Never+break+prod." alt="typing" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Samedov55&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=PROFILE+VIEWS" alt="views" />
 <img src="https://img.shields.io/github/followers/Samedov55?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github&logoColor=58A6FF" alt="followers" />
-<img src="https://img.shields.io/badge/Based_in-T%C3%BCrkiye-58A6FF?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=58A6FF" alt="location" />
+<img src="https://img.shields.io/badge/Samsun-%C4%B0lkad%C4%B1m-58A6FF?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=58A6FF" alt="location" />
 <img src="https://img.shields.io/badge/Open_to-Collaboration-3ECF8E?style=for-the-badge&labelColor=0D1117&logo=handshake&logoColor=3ECF8E" alt="status" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
@@ -22,25 +22,33 @@
 
 ## &nbsp;&nbsp;`01` &nbsp;About Me
 
-```ts
-const samet: Developer = {
-  role:      "Full-Stack Developer & SaaS Builder",
-  location:  "Türkiye 🇹🇷",
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend:  ["Python", "FastAPI", "Node.js"],
-    data:     ["Supabase", "PostgreSQL", "Redis"],
-    tooling:  ["Docker", "Git", "Vercel", "Figma"],
-  },
-  currentlyBuilding: [
-    "Warehouse Management System",
-    "Inventory Tracking Platform",
-    "Property Management SaaS",
-  ],
-  workstation: "macOS · dual-monitor setup",
-  philosophy:  "Clean code is not written by following rules — it is written by caring.",
-};
-```
+<table>
+<tr>
+<td valign="top" width="54%">
+
+Frontend developer based in **Samsun, İlkadım**. I design and build production
+interfaces for SaaS products — React and Next.js on the surface, Supabase and
+PostgreSQL underneath.
+
+My focus is clean component architecture, accessible markup, and interfaces
+that stay fast as the product grows. Currently building warehouse, inventory
+and property management platforms.
+
+</td>
+<td valign="top" width="46%">
+
+| | |
+| :--- | :--- |
+| **Role** | Frontend Developer |
+| **Location** | Samsun / İlkadım, Türkiye |
+| **Core** | React · Next.js · TypeScript |
+| **Backend** | Python · FastAPI · Supabase |
+| **Workstation** | macOS · dual-monitor |
+| **Currently** | Warehouse & inventory platforms |
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
@@ -71,7 +79,7 @@ Multi-warehouse inventory tracking with automated low-stock alerts and an analyt
 ### 🏢 &nbsp;Property SaaS
 Apartment fee and expense management with payment tracking and automated notifications.
 
-`React` `Supabase` `Tailwind`
+`React` `Supabase` `TypeScript`
 
 </td>
 </tr>
@@ -87,15 +95,15 @@ Apartment fee and expense management with payment tracking and automated notific
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,tailwind&theme=dark" alt="core stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python&theme=dark" alt="core stack" />
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres,redis,prisma&theme=dark" alt="backend stack" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres,redis&theme=dark" alt="backend stack" />
 
 **Tooling & Infra**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode&theme=dark" alt="tooling" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&theme=dark" alt="tooling" />
 
 </div>
 
@@ -116,26 +124,19 @@ Apartment fee and expense management with payment tracking and automated notific
 
 <img src="https://streak-stats.demolab.com?user=Samedov55&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="streak" />
 
-
-<br/><br/>
-
-<img width="98%" src="https://github-trophies.vercel.app/?username=Samedov55&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
 
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<!-- ═══════════════════════════ GARAGE ═══════════════════════════ -->
 
-## &nbsp;&nbsp;`05` &nbsp;Contribution Graph
+## &nbsp;&nbsp;`05` &nbsp;Garage
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samedov55/Samedov55/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samedov55/Samedov55/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Samedov55/Samedov55/output/snake.svg" />
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/Samedov55/Samedov55/main/assets/car.svg" alt="car driving on a night road" />
+
+<i>Code by day, cars by night.</i>
 
 </div>
 
